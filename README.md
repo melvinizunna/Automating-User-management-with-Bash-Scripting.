@@ -1,1 +1,3 @@
 # Automating-User-management-with-Bash-Scripting.
+
+Managing user accounts efficiently is very crucial for any system administrator/DevOps engr. In this project, I wrote a Bash script to automate the creation of users, set up groups, assign passwords, and log actions. This approach can be particularly useful for large-scale deployments, like onboarding new employees or managing accounts in schools. Project Overview I'll use a Bash script to read the user data from a file, then automate the process of creating users, assigning them to groups, generating passwords, and logging everything for audit purposes. This script is designed to be secure and reliable, ensuring that sensitive information like passwords are handled properly.
